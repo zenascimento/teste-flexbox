@@ -1,0 +1,14 @@
+.header {
+    padding: 5px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    gap: 20px;
+    height: 650px;
+}
